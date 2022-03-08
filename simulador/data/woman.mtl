@@ -1,0 +1,15 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl PackedMaterial0
+Ns 512.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Woman\\woman_Packed0_Diffuse.png
+map_Ks Woman\\woman_Packed0_Specular.png
+map_d Woman\\woman_Packed0_Opacity.png
